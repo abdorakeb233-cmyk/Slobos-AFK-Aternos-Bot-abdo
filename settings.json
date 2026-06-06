@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "testgr.falixsrv.me",
-    "port": 45806,
+    "ip": "testgr.falix.dev",
+    "port": 21687,
     "version": "",
     "try-creative": false
   },
